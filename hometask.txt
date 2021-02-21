@@ -4,3 +4,12 @@ git diff demo master
 +Create release branch with human (master) in boots (boots branch) and hat (hat branch) with nice buttons on his jacket (buttons branch)
 
  You must receive some image as in demo branch
+
+
+commit messages:
+
+Merge remote-tracking branch 'origin/hat'
+Merge branch 'boots_buttons'
+task 2
+Merge remote-tracking branch 'my/master'
+hometask upd (this commit)
